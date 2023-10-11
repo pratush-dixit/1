@@ -64,7 +64,7 @@ function App() {
       
       <div className="footer">
         <div className='footer_head'>Connect with me</div>
-        <div className='footer_email'>Email: pratush2d@gmail.com</div>
+        //<div className='footer_email'>Email: pratush2d@gmail.com</div>
         <div className='footer_hr'><hr/></div>
         <div className='footer_links'>
            <a href="https://github.com/pratush-dixit" className='icons'><i class="devicon-github-original"></i></a>
